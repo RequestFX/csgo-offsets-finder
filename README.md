@@ -2,8 +2,8 @@
 
 ## INFO!
 
-Toggle esp with F6
-Signature Scanner by Zer0Mem0ry
+1. Toggle esp with F6
+2. Signature Scanner by Zer0Mem0ry
 
 > <a href="https://www.unknowncheats.me/forum/counterstrike-global-offensive/342936-1337-external-netvars.html">Netvarmanager tutorial by boypeanut</a>
 
