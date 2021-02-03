@@ -27,10 +27,6 @@ public:
 		instance = this;
 	}
 
-	~Manager() {
-		delete instance;
-	}
-
 	void startClient() {
 		mem = new Mem();
 		game = new Game(mem);
