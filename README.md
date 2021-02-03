@@ -16,3 +16,5 @@ In Debug mode it takes about +/-10 seconds to initialize Netvars and Signatures
 In Release mode it takes about +/-5 seconds to initialize Netvars and Signatures
 
 <img src="https://i.gyazo.com/6170d99de36b31c94814195f606d6a3e.png" width="350" title="Debug Mode">
+
+<img src="https://i.gyazo.com/9d12ce4216592ed86cea3506f670a7da.png" title="ESP">
